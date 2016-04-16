@@ -12,7 +12,7 @@ body{margin:0;padding: 0;}
 
 .header{
 	height: 300px;
-	border: 1px solid #000;
+	border: 1px solid red;
 	background: url(../images/b4.jpg);
 	background-size: 100% 100%;
 }
@@ -54,7 +54,7 @@ a {
 }
 .h_main>ul>li>.da-link {
     background: #22CBA4;
-    font-size: 1.2em;
+    font-size: 1.3em;
     padding: 15px 30px;
     color: rgb(255, 255, 255);
     cursor: pointer;
@@ -87,7 +87,7 @@ a {
     position: relative;
 }
 .nav li.active a, .nav li a:hover {
-	color: #22CBA4;
+	color: #22CBA3;
     border-top: 5px solid #22CBA4;
 }
 .nav li a {
