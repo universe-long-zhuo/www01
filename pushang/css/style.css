@@ -322,8 +322,6 @@ ul.pinpang li{display: inline-block;width: 25%;line-height: 1.8}
 .txt-two{
     position: absolute;
     left: 0;
-    top: 0;
-    /*width: 100%;*/
     padding-top: 55px;
     line-height: 75px;
     text-align: center;
